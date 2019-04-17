@@ -1,4 +1,4 @@
-﻿token=NTY4MTE3Nzg5MTkwMjU4Njg4.XLda8Q.OD3CyezyE69GD8nr2NvB6NpjuzM 
+token=NTY4MTQ0NzYwMjQyNTY5MjMx.XLd0Mg.ziSIffhvvj4QS5qKICbbH-3hCPc
 owner=540557492824834048
 prefix= Z
 game= تست
